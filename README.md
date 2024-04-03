@@ -45,4 +45,22 @@ After starting this bot, the bot will send you your numeric telegram id
   <img src="/images/prv3.png" width="20%" />
 </p>
 
+### Step 3
+Install Apk editor and open it then selcet <strong>Apk file</strong> and select <strong>ContactEye Apk file</strong> that you installed on <strong>step 1</strong>
+
+After finding and selecting ContactEye apk file select <strong>full edit</strong> and then <strong>Decode all files</strong>
+
+Navigate to <strong>files tab</strong>
+
+In the files tab navigate to assets folder
+
+<p float="left">
+  <img src="/images/prv4.png" width="20%" />
+  <img src="/images/prv5.png" width="20%" />
+  <img src="/images/prv6.png" width="20%" />
+  <img src="/images/prv7.png" width="20%" />
+</p>
+
+
+
 
