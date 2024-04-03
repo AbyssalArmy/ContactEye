@@ -77,5 +77,23 @@ In the assets folder you will see 3 files
 
 <strong>MAKE SURE THAT YOU SAVED TEXT FILES AFTER EDITING!</strong>
 
+### Step 4 
+After doing all above steps click on <strong>Smali button</strong> at the top right of screen
+
+After clicking on Smali button, click on <strong>Build button and build</strong> the app
+
+<p float="left">
+  <img src="/images/prv10.png" width="20%" />
+</p>
+
+#### Enjoy!
+
+### Fallow our [Telegram channel](https://t.me/abyssalarmy) for more:
+
+<a href="https://t.me/abyssalarmy">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+
 
 
