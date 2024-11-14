@@ -88,9 +88,9 @@ After clicking on Smali button, click on <strong>Build button and build</strong>
 
 #### Enjoy!
 
-### Fallow our [Telegram channel](https://t.me/abyssalarmy) for more:
-
-<a href="https://t.me/abyssalarmy">
+## [Admin](https://t.me/abyssaladmin) for purchase and support
+#### Message the admin on Telegram to buy products or ask questions and get support:
+<a href="https://t.me/abyssaladmin">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
