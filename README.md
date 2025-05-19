@@ -88,13 +88,13 @@ After clicking on Smali button, click on <strong>Build button and build</strong>
 
 #### Enjoy!
 
-## Follow our [Telegram channel](https://t.me/abyssalarmychannel):
+## Follow our [Telegram channel](https://t.me/abyssalarmybackup):
 #### Join our Telegram channel for updates and notifications about the latest spyware releases:
 <a href="https://t.me/abyssalarmychannel">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-## [Admin](https://t.me/abyssalarmyadmin) for support
+## [Admin](https://t.me/abyssalarmybackup) for support
 #### Message the admin on Telegram to ask questions and get support:
 <a href="https://t.me/abyssalarmyadmin">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
